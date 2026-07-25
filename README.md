@@ -89,7 +89,7 @@ An end-to-end AI-integrated e-commerce platform for fashion. Built for real prod
 
 ---
 
-### ⚽ [El La3eba](https://github.com/Mo-Kayyali/El-La3eba) — Competitive Football Trivia Platform
+### ⚽ [El La3eba](https://github.com/Mo-Kayyali/El-La3eba-Showcase) — Competitive Football Trivia Platform
 > **Personal Project · In Development · Full Stack**
 
 A real-time competitive online gaming platform built around football knowledge. Players challenge each other in live 1v1 lobbies and climb global leaderboards.
